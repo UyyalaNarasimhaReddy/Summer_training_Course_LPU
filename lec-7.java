@@ -45,9 +45,9 @@ public class lec_7 {
     public static void main(String args[]) {
         Student s1 = new Student();
         Student s2 = new Student();
-        s1.name = "Suryansh";
+        s1.name = "Narasimha";
         s1.marks = 30;
-        s2.name = "Sushant";
+        s2.name = "Ajay";
         s2.marks = 90;
         System.out.println(s1.is_pass());
         System.out.println(s2.is_pass());
