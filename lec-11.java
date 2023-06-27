@@ -8,13 +8,13 @@ abstract class Car // We cannot instantiate an abstract class, which means we ca
 
 abstract class BMW extends Car {
     void accelerate() {
-        System.out.println("KIA is accelerating");
+        System.out.println("BMW is accelerating");
     }
 }
 
 class BMW2 extends BMW {
     void brake() {
-        System.out.println("KIA is applying brakes");
+        System.out.println("BMW is applying brakes");
     }
 }
 
