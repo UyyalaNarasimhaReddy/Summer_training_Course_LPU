@@ -1,4 +1,4 @@
-
+import lec_13A.A;
 public class D {
     public static void main(String[] args) {
         A obj=new A();
