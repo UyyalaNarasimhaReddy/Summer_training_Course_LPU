@@ -1,4 +1,3 @@
-package lec_13B;
 import lec_13A.A;
 public class C extends A{
     public static void main(String[] args) {
